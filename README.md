@@ -13,3 +13,6 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+## Personal Change I Made
+Added a Hobbies section to the website
